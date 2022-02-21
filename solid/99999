@@ -17,3 +17,5 @@
 : 1645467576:0;subl open_closed_after.py
 : 1645467637:0;ls
 : 1645467670:0;git commit -am "Add code before applying open closed principle"
+: 1645469133:0;git log --oneline
+: 1645469146:0;git commit -am "Add code after applying open closed principle"
