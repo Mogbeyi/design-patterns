@@ -1,0 +1,12 @@
+: 1645449485:0;ls
+: 1645449642:0;touch single_responsibility_before.py single_responsibility_after.py
+: 1645449648:0;subl single_responsibility_before.py
+: 1645449857:0;python single_responsibility_before.py
+: 1645449949:0;subl single_responsibility_after.py
+: 1645450002:0;git commit -am "Add before single responsibility"
+: 1645450266:0;python single_responsibility_after.py
+: 1645450312:0;git commit -am "Add after single responsiblility"
+: 1645450329:0;git status -s
+: 1645450331:0;ls
+: 1645450338:0;ls -a
+: 1645450345:0;cd ..
