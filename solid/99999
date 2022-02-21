@@ -10,3 +10,10 @@
 : 1645450331:0;ls
 : 1645450338:0;ls -a
 : 1645450345:0;cd ..
+: 1645467510:0;ls
+: 1645467533:0;touch open_closed_before.py open_closed_after.py
+: 1645467555:0;subl open_closed_before.py _after.py
+: 1645467563:0;ls
+: 1645467576:0;subl open_closed_after.py
+: 1645467637:0;ls
+: 1645467670:0;git commit -am "Add code before applying open closed principle"
