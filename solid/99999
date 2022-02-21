@@ -19,3 +19,11 @@
 : 1645467670:0;git commit -am "Add code before applying open closed principle"
 : 1645469133:0;git log --oneline
 : 1645469146:0;git commit -am "Add code after applying open closed principle"
+: 1645471585:0;ls
+: 1645471598:0;touch liskov_before.py
+: 1645471605:0;touch liskov_after.py
+: 1645473295:0;subl liskov_before.py
+: 1645473308:0;subl liskov_after.py
+: 1645473321:0;git log --oneline
+: 1645473340:0;git commit -am 
+: 1645473352:0;git commit -am "Add code before applying liskov"
