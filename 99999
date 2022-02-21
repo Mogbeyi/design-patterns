@@ -1,0 +1,24 @@
+: 1645406860:0;ls
+: 1645406875:0;git init 
+: 1645406894:0;git add README.md
+: 1645406907:0;git commit -m "first commit"
+: 1645406935:0;git remote add origin https://github.com/Mogbeyi/design-patterns.git
+: 1645406939:0;git branch
+: 1645406949:0;git branches
+: 1645406952:0;git branch
+: 1645406972:0;git branch -M main
+: 1645407016:0;git branch -r
+: 1645407053:0;clear
+: 1645407054:0;ls
+: 1645407057:0;ls -a
+: 1645407059:0;cd .git
+: 1645407072:0;clear
+: 1645407112:0;git rev-parse --abbrev-ref HEAD\
+
+: 1645407118:0;git branch
+: 1645407122:0;clear
+: 1645407132:0;git branch --show-current\
+
+: 1645407139:0;git --version
+: 1645407174:0;ls
+: 1645407180:0;git add .
