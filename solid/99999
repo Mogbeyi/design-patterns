@@ -39,3 +39,15 @@
 : 1646054989:0;git log --oneline
 : 1646055000:0;cat interface_segration_after.py
 : 1646055044:0;git add .
+: 1646055060:0;git commit -m "Implement interface segregation principle"
+: 1646055066:0;git push
+: 1646055072:0;git push origin master
+: 1646055076:0;clear
+: 1646055220:0;ls
+: 1646055241:0;touch dependecy_inversion.py
+: 1646055255:0;mv dependecy_inversion.py dependecy_inversion_before.py
+: 1646055264:0;touch dependecy_inversion_after.py
+: 1646055270:0;subl dependecy_inversion_before.py
+: 1646055281:0;subl dependecy_inversion_after.py
+: 1646055311:0;cat dependecy_inversion_after.py
+: 1646055314:0;git add .
