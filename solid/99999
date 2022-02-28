@@ -27,3 +27,15 @@
 : 1645473321:0;git log --oneline
 : 1645473340:0;git commit -am 
 : 1645473352:0;git commit -am "Add code before applying liskov"
+: 1645473353:0;clear
+: 1645473379:0;python liskov_after.py
+: 1645525727:0;ls
+: 1645525792:0;touch interface_segration_before.py
+: 1645525805:0;touch interface_segration_after.py
+: 1645525810:0;subl interface_segration_before.py
+: 1645525837:0;subl interface_segration_after.py
+: 1645554406:0;cd ../../..
+: 1646054982:0;ls
+: 1646054989:0;git log --oneline
+: 1646055000:0;cat interface_segration_after.py
+: 1646055044:0;git add .
