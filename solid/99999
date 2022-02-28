@@ -51,3 +51,5 @@
 : 1646055281:0;subl dependecy_inversion_after.py
 : 1646055311:0;cat dependecy_inversion_after.py
 : 1646055314:0;git add .
+: 1646055330:0;git commit -m "Add dependency inversion before"
+: 1646055360:0;git add .
